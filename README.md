@@ -9,7 +9,7 @@ This repository provides the code for the free quants@dev Webinar series about R
 
 Join the community on **Discord** via https://discord.gg/uJPtp9Awaj.
 
-Follow the community on **Twitter** under https://twitter.com/
+Follow the community on **Twitter** under https://twitter.com/.
 
 The repository is authored and maintained by The Python Quants GmbH. &copy; Dr. Yves J. Hilpisch. MIT License.
 
