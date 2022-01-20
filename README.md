@@ -21,7 +21,7 @@ You should be able to execute the Jupyter Notebooks with Google Colab via https:
 
 Larger parts of the code presented in this Webinar series are based on the book **Artificial Intelligence in Finance &mdash; A Python-Based Guide** by myself (O'Reilly, 2020). See https://aiif.tpq.io.
 
-<img src="https://hilpisch.com/aiif_cover_color.png" width=35% align=left><br><br>
+<img src="https://hilpisch.com/aiif_cover_color.png" width=35%><br><br>
 
 
 ## Get in Touch
