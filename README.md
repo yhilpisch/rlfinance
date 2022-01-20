@@ -21,9 +21,9 @@ You should be able to execute the Jupyter Notebooks with Google Colab via https:
 
 Larger parts of the code presented in this Webinar series are based on the book **Artificial Intelligence in Finance &mdash; A Python-Based Guide** by myself (O'Reilly, 2020). See https://aiif.tpq.io.
 
-<img src="https://hilpisch.com/aiif_cover_color.png" alt="quants@dev" width="35%" align="left" border="0"><br>
+<img src="https://hilpisch.com/aiif_cover_color.png" alt="quants@dev" width="35%" align="left" border="0"><br><br>
 
 
 <img src="https://certificate.tpq.io/quantsdev_logo.png" alt="quants@dev" width="35%" align="right" border="0"><br>
 
-<a href="http://tpq.io" target="_blank">http://tpq.io</a> | <a href="http://twitter.com/dyjh" target="_blank">@dyjh</a> | <a href="mailto:training@tpq.io">qd@tpq.io</a>
+<br><a href="http://tpq.io" target="_blank">http://tpq.io</a> | <a href="http://twitter.com/dyjh" target="_blank">@dyjh</a> | <a href="mailto:training@tpq.io">qd@tpq.io</a>
