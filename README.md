@@ -15,7 +15,7 @@ The repository is authored and maintained by The Python Quants GmbH. &copy; Dr. 
 
 ## Google Colab
 
-You should be able to execute the Jupyter Notebooks with Google Colab via https://colab.research.google.com/github/.
+You should be able to execute the Jupyter Notebooks with Google Colab via https://colab.research.google.com/github/yhilpisch/rlfinance.
 
 ## Artificial Intelligence in Finance
 
